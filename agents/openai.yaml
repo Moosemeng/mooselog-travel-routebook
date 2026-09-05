@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mooselog Travel Journal"
+  short_description: "Fast AI trip planning and destination-colored travel journals"
+  default_prompt: "Use $mooselog-travel-routebook to plan or create a social-media travel journal. First ask whether I already have a complete itinerary or want AI to research and plan it. Use the balanced-fast pipeline by default: batch the intake, freeze the confirmed content, generate text-free artwork once, and render exact typography locally so copy revisions do not regenerate the image."
